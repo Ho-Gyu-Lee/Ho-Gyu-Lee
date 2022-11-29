@@ -9,7 +9,7 @@
 
 ### Interest
   - Seam-Less Game Server
-  - Optimize and save your IT costs
+  - Server Cost Optimizations
 
 <!--
 **Ho-Gyu-Lee/Ho-Gyu-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

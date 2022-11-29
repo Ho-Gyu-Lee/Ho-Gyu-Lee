@@ -5,7 +5,11 @@
 </div>
   
 ### Server Programmer
-  - Mobile / PC Game Server Programmer
+  - PC / Mobile Game Server Programmer
+
+### Interest
+  - Seam-Less Game Server
+  - Optimize and save your IT costs
 
 <!--
 **Ho-Gyu-Lee/Ho-Gyu-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
